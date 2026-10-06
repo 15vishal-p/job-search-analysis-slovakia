@@ -2,6 +2,8 @@
 
 A sourced, regularly updated picture of the Slovak job market: postings, competition per job, unemployment and wages. Every number links to its source, and official Eurostat series refresh automatically each month.
 
+**Live web app:** built in Lovable, see [docs/PLATFORM.md](docs/PLATFORM.md) (features, data sources, rules).
+
 **Last updated: 6 October 2026** (latest official data: unemployment to Aug 2026, wages to Q2 2026, Profesia postings to H1 2026)
 
 ![Slovakia job market](charts/dashboard_slovakia_market.png)
