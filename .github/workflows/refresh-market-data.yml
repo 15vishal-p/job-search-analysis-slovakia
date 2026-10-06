@@ -1,0 +1,28 @@
+name: Refresh market data
+
+on:
+  schedule:
+    - cron: "17 6 3 * *"   # 3rd of every month, after Eurostat's monthly unemployment release
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - run: python src/fetch_eurostat.py
+      - run: python src/market_report.py
+      - name: Commit if anything changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data charts README.md
+          git diff --cached --quiet || git commit -m "Refresh Slovakia market data ($(date -u +%Y-%m))"
+          git push

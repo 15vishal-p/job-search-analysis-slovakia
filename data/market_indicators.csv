@@ -1,0 +1,35 @@
+indicator,period,value,unit,source,url
+job_postings_profesia,2025,249136,postings,Profesia 2025 annual report (Pravda Jan 2026),https://ekonomika.pravda.sk/ludia/clanok/781180-profesia-pocet-pracovnych-ponuk-vyrazne-klesol-zaujem-uchadzacov-bol-vsak-rekordny/
+job_postings_profesia_yoy,2025,-16,pct,Profesia 2025 annual report (Pravda Jan 2026),https://ekonomika.pravda.sk/ludia/clanok/781180-profesia-pocet-pracovnych-ponuk-vyrazne-klesol-zaujem-uchadzacov-bol-vsak-rekordny/
+job_postings_profesia,2026-H1,117830,postings,Profesia H1 2026 report (TASR Jul 2026),https://www.teraz.sk/ekonomika/pocet-pracovnych-ponuk-na-portali-pr/976382-clanok.html
+job_postings_profesia_yoy,2026-H1,-14,pct,Profesia H1 2026 report (TASR Jul 2026),https://www.teraz.sk/ekonomika/pocet-pracovnych-ponuk-na-portali-pr/976382-clanok.html
+applicants_per_posting,2025-H1,28,applicants,Profesia H1 2026 report (36 = 8 more than H1 2025),https://www.teraz.sk/ekonomika/pocet-pracovnych-ponuk-na-portali-pr/976382-clanok.html
+applicants_per_posting,2025,29,applicants,Profesia 2025 annual report,https://ekonomika.pravda.sk/ludia/clanok/781180-profesia-pocet-pracovnych-ponuk-vyrazne-klesol-zaujem-uchadzacov-bol-vsak-rekordny/
+applicants_per_posting,2026-H1,36,applicants,Profesia H1 2026 report (TASR Jul 2026),https://www.teraz.sk/ekonomika/pocet-pracovnych-ponuk-na-portali-pr/976382-clanok.html
+bratislava_share_of_postings,2025,0.354,share,"Alma Career, Trh práce 2025 v dátach",https://magazin.almacareer.com/sk/trh-prace-2026-kde-chybaju-ludia-a-kde-je-ich-prebytok
+registered_unemployment_pdu,2025-12,4.09,pct,ÚPSVaR monthly statistics,https://www.upsvr.gov.sk/statistiky/nezamestnanost-mesacne-statistiky/2026.html?page_id=1500349
+registered_unemployment_pdu,2026-01,4.42,pct,ÚPSVaR monthly statistics,https://www.upsvr.gov.sk/statistiky/nezamestnanost-mesacne-statistiky/2026.html?page_id=1500349
+registered_unemployment_pdu,2026-02,4.16,pct,ÚPSVaR monthly statistics,https://www.upsvr.gov.sk/statistiky/nezamestnanost-mesacne-statistiky/2026.html?page_id=1500349
+registered_unemployment_pdu,2026-03,4.03,pct,ÚPSVaR monthly statistics,https://www.upsvr.gov.sk/statistiky/nezamestnanost-mesacne-statistiky/2026.html?page_id=1500349
+registered_unemployment_pdu,2026-08,4.04,pct,ÚPSVaR via IFP flash (Sep 2026),https://ifp.sk/nezamestnanost-stagnuje-blizko-historickeho-minima-flash/
+registered_unemployment_rate,2026-08,6.1,pct,"IFP flash: flat at 6.1% for 5 months (Apr-Aug 2026)",https://www.teraz.sk/ekonomika/ifp-nezamestnanost-v-auguste-stagnoval/993834-clanok.html
+lfs_unemployment_rate,2026-Q1,5.9,pct,"ŠÚ SR, Labour Force Survey (161,900 unemployed, +10.4% YoY)",https://www.teraz.sk/ekonomika/pocet-nezamestnanych-v-1-stvrtroku/967207-clanok.html
+lfs_unemployment_rate,2026-Q2,5.6,pct,"ŠÚ SR, Labour Force Survey (Sep 2026)",https://www.forbes.sk/na-slovensku-pribudaju-ludia-bez-prace-nezamestnanost-vzrastla-na-56-percenta/
+lfs_unemployed_persons,2026-Q1,161900,persons,"ŠÚ SR, Labour Force Survey",https://www.teraz.sk/ekonomika/pocet-nezamestnanych-v-1-stvrtroku/967207-clanok.html
+average_wage,2026-Q1,1611,eur,"ŠÚ SR (+6.1% nominal, +2.3% real YoY)",https://polnoinfo.sk/su-sr-priemerna-mzda-v-slovenskom-hospodarstve-dosiahla-v-1-stvrtroku-1611-eur/
+average_wage,2026-Q2,1707,eur,"ŠÚ SR, 2 Sep 2026 (+3.2% nominal, -0.5% real YoY)",https://www.forbes.sk/priemerna-mzda-stupla-na-1707-eur-slovaci-si-vsak-realne-pohorsili/
+average_wage_real_yoy,2026-Q1,2.3,pct,ŠÚ SR,https://polnoinfo.sk/su-sr-priemerna-mzda-v-slovenskom-hospodarstve-dosiahla-v-1-stvrtroku-1611-eur/
+average_wage_real_yoy,2026-Q2,-0.5,pct,ŠÚ SR,https://www.forbes.sk/priemerna-mzda-stupla-na-1707-eur-slovaci-si-vsak-realne-pohorsili/
+gdp_growth_forecast_nbs,2026,0.6,pct,NBS forecast Dec 2025,https://www.tasr.sk/tasr-clanok/TASR:2025122200000343
+graduate_postings_share,2019,36,pct,"TASR, Apr 2026",https://ekonomika.pravda.sk/ludia/clanok/803091-slovensko-je-na-tom-rovnako-ako-pocas-covidu-trh-je-zaseknuty-hoci-roboty-je-podla-statu-rekordne-vela/
+graduate_postings_share,2025,29,pct,"TASR, Apr 2026",https://ekonomika.pravda.sk/ludia/clanok/803091-slovensko-je-na-tom-rovnako-ako-pocas-covidu-trh-je-zaseknuty-hoci-roboty-je-podla-statu-rekordne-vela/
+finance_postings_bratislava_12m_est,2025-07/2026-06,7673,postings,Profesia live snapshot 26 Sep 2026 applied to 12-month total,https://www.profesia.sk/
+bratislava_finance_ads_english,2026-09,0.47,share,Profesia snapshot 26 Sep 2026 (270 of 574),https://www.profesia.sk/
+bratislava_finance_ads_slovak,2026-09,0.32,share,Profesia snapshot 26 Sep 2026 (186 of 574),https://www.profesia.sk/
+bratislava_finance_ads_czech,2026-09,0.14,share,Profesia snapshot 26 Sep 2026 (83 of 574),https://www.profesia.sk/
+bratislava_finance_ads_german,2026-09,0.08,share,Profesia snapshot 26 Sep 2026 (44 of 574),https://www.profesia.sk/
+job_postings_profesia_12m_est,2025-07/2026-06,229954,postings,H2 2025 + H1 2026 (estimate),https://www.teraz.sk/ekonomika/pocet-pracovnych-ponuk-na-portali-pr/976382-clanok.html
+graduate_postings_asking_experience,2019,39,pct,"TASR, Apr 2026",https://ekonomika.pravda.sk/ludia/clanok/803091-slovensko-je-na-tom-rovnako-ako-pocas-covidu-trh-je-zaseknuty-hoci-roboty-je-podla-statu-rekordne-vela/
+graduate_postings_asking_experience,2026,50,pct,"TASR, Apr 2026 (about half)",https://ekonomika.pravda.sk/ludia/clanok/803091-slovensko-je-na-tom-rovnako-ako-pocas-covidu-trh-je-zaseknuty-hoci-roboty-je-podla-statu-rekordne-vela/
+graduates_business_admin,2024,5412,persons,Eurostat educ_uoe_grad02 (F041),https://ec.europa.eu/eurostat/databrowser/view/educ_uoe_grad02/default/table
+graduates_accounting_tax,2024,282,persons,Eurostat educ_uoe_grad02 (F0411),https://ec.europa.eu/eurostat/databrowser/view/educ_uoe_grad02/default/table
